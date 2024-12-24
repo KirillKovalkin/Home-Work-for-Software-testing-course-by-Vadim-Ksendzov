@@ -1,0 +1,8 @@
+{
+  "ID": 1,
+  "Summary": "Dont show compare items",
+  "Description": "When choose items for compare, dont show item in compare button",
+  "Steps to reproduce": "Mark item to compare",
+  "Actual result": "Compare button dont see item to compare",
+  "Expected result": "Compare button see items to compare"
+}

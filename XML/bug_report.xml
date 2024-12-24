@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+<ID>1</ID>
+<Summary>Dont show compare items</Summary>
+<Description>When choose items for compare, dont show item in compare button</Description>
+<Steps_to_reproduce>Open site, choose item, mark item to compare</Steps_to_reproduce>
+<Actual_result>Compare button dont see items to compare</Actual_result>
+<Expected_result>Compare button see items to compare</Expected_result>
+</bug_report>
